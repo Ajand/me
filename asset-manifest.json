@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/me/static/css/main.0da25dda.chunk.css",
+    "main.js": "/me/static/js/main.50fde532.chunk.js",
+    "main.js.map": "/me/static/js/main.50fde532.chunk.js.map",
+    "runtime-main.js": "/me/static/js/runtime-main.f1b8c855.js",
+    "runtime-main.js.map": "/me/static/js/runtime-main.f1b8c855.js.map",
+    "static/js/2.88619498.chunk.js": "/me/static/js/2.88619498.chunk.js",
+    "static/js/2.88619498.chunk.js.map": "/me/static/js/2.88619498.chunk.js.map",
+    "static/js/3.6d6c5415.chunk.js": "/me/static/js/3.6d6c5415.chunk.js",
+    "static/js/3.6d6c5415.chunk.js.map": "/me/static/js/3.6d6c5415.chunk.js.map",
+    "index.html": "/me/index.html",
+    "static/css/main.0da25dda.chunk.css.map": "/me/static/css/main.0da25dda.chunk.css.map",
+    "static/js/2.88619498.chunk.js.LICENSE.txt": "/me/static/js/2.88619498.chunk.js.LICENSE.txt",
+    "static/media/Arrow.4d2e61c9.svg": "/me/static/media/Arrow.4d2e61c9.svg",
+    "static/media/Arrow2.67bcd902.svg": "/me/static/media/Arrow2.67bcd902.svg",
+    "static/media/Education.4dffdd4f.svg": "/me/static/media/Education.4dffdd4f.svg",
+    "static/media/Hobby.2c30e7fa.svg": "/me/static/media/Hobby.2c30e7fa.svg",
+    "static/media/Research.f186ffdf.svg": "/me/static/media/Research.f186ffdf.svg",
+    "static/media/Skills.513ead22.svg": "/me/static/media/Skills.513ead22.svg",
+    "static/media/house.d324e380.svg": "/me/static/media/house.d324e380.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1b8c855.js",
+    "static/js/2.88619498.chunk.js",
+    "static/css/main.0da25dda.chunk.css",
+    "static/js/main.50fde532.chunk.js"
+  ]
+}
